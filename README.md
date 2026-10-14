@@ -205,4 +205,13 @@ MIT license.
 
 <!-- adjacent:start -->
 
+## 🔗 Adjacent Repositories
+
+- [finite-sample/guess](https://github.com/finite-sample/guess) — Adjust naive estimates of learning for guessing
+- [finite-sample/know_gains](https://github.com/finite-sample/know_gains) — Measuring Learning in Informative Processes \(Luskin, Helfer, Sood\)
+- [finite-sample/dp_steadier_not_closer](https://github.com/finite-sample/dp_steadier_not_closer) — Separating convergence, divergence, and crystallization in deliberative polls
+- [finite-sample/know_guess_forget](https://github.com/finite-sample/know_guess_forget) — Replication and modern reanalysis of Cor and Sood \(2016\)
+
+_Powered by [Adjacent](https://github.com/gojiplus/adjacent)_
+
 <!-- adjacent:end -->
