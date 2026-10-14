@@ -202,3 +202,7 @@ Its annotation categories are explicitly documented operational conventions,
 not a claim to reproduce a validated DQI coding instrument.
 
 MIT license.
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
