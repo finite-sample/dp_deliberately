@@ -1,4 +1,4 @@
-# deliberately
+# deliberately: who spoke, who was heard, and what changed?
 
 **Who spoke, who was heard, and what changed?**
 
