@@ -11,3 +11,4 @@
 ^audit$
 ^revdep$
 ^vignettes/articles$
+^\.codespellrc$
